@@ -1,5 +1,4 @@
 # divi
-Thu gọn và tạo kiểu cho menu
 <script >
     jQuery(function($) {
         $(document).ready(function() {
